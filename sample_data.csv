@@ -1,0 +1,6 @@
+bed_occupancy,active_cases,staff_on_duty,previous_oxygen_usage,oxygen_demand
+60,25,10,180,185
+62,27,11,185,190
+65,30,11,190,195
+70,35,12,200,210
+75,40,13,210,220
